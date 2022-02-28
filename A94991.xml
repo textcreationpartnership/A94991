@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true character of such as are malignants in the kingdome of Scotland. By way of information and direction to the ministery of that kingdome. Also the indiction of a publike fast the third Sunday of Febuary next, and the Thursday following. By the commissioners of the generall Assembly of the Church of Scotland. Wherein is shewed their zeale to the glory of God, and the fellow-feeling they have of their brethren, the members of Christs body. Lastly, lamenting the present distraction of the Church, and Kingdome of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94991</idno>
+            <idno type="STC">Wing T2602</idno>
+            <idno type="STC">Thomason E246_7</idno>
+            <idno type="STC">ESTC R5026</idno>
+            <idno type="EEBO-CITATION">99872774</idno>
+            <idno type="PROQUEST">99872774</idno>
+            <idno type="VID">158375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158375)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true character of such as are malignants in the kingdome of Scotland. By way of information and direction to the ministery of that kingdome. Also the indiction of a publike fast the third Sunday of Febuary next, and the Thursday following. By the commissioners of the generall Assembly of the Church of Scotland. Wherein is shewed their zeale to the glory of God, and the fellow-feeling they have of their brethren, the members of Christs body. Lastly, lamenting the present distraction of the Church, and Kingdome of England.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his shop in Popes-head-Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 7 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History, (17th century)</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158375:1" rendition="simple:additions"/>
+            <p>
+               <hi>The true</hi> CHARACTER Of ſuch as are MALIGNANTS in the <hi>Kingdome</hi> of SCOTLAND.</p>
+            <p>By way of Information and Direction to the Miniſtery of that <hi>Kingdome.</hi>
+            </p>
+            <p>ALSO The Indiction of a publike FAST the third Sunday of <hi>February</hi> next, and the <hi>Thurſday</hi> following.</p>
+            <p>By the Commiſſioners of the generall Aſſembly of the Church of SCOTLAND.</p>
+            <p>Wherein is ſhewed their zeale to the glory of God, and the fellow-feeling they have of their Brethren, the Members of Chriſts Body.</p>
+            <p>LASTLY, Lamenting the preſent Diſtraction of the Church, and Kingdome of ENGLAND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for HENRY OVERTON, and are to be ſold at his Shop in <hi>Popes-head-Alley.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="directions_regarding_religious_dissidents">
+            <pb facs="tcp:158375:2"/>
+            <pb n="1" facs="tcp:158375:2"/>
+            <head>Directions to Miniſters anent Malignants: By the <hi>Commiſſioners</hi> of the generall Aſſembly of the Kirke of SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning a ſort of Enemies, the Malignants, whether they be ſuch as from the begining oppoſe the worke of Reformation of Reli<g ref="char:EOLhyphen"/>gion in this Land, or ſuch as ſhew themſelves upon whatſoever pretence, backward and diſaffected to the Reformation of Religion of <hi>England,</hi> ſo much indeavoured by this Kirke from our zeale to the glory of Chriſt, our deſire of the happineſſe of our Neighbour Kingdomes, our feares of apparant danger to the Religion here, if they be not made one with us in unity of Religion and uniformity of <hi>Church</hi> government: And our hopes by the bleſſing of God, to have a patterne from the Word ſet up in this Iſland, for the example of other Kirkes abroad. Becauſe Enemies of this kinde may prove moſt dangerous if they be not diſcovered and avoyded, it is at this time our duty to make ſuch Malignants known to the people that they be not deceived and drawn away from their own ſtedfaſtneſſe, and from the love of Chriſt and of their Bre<g ref="char:EOLhyphen"/>thren: But in doing this duty we have great need of wiſdome, and the Spirit of diſcerning, that we neither take our friends to be our enemies, and by that miſtake diſcourage the well affected and multiply enemies againſt our ſelves, nor ſuch as are indeed enemies to be our friends, and thereby wrong the cauſe of God and weaken our ſelves in ſeeking after Reformation: and ther<g ref="char:EOLhyphen"/>fore they muſt not be taken for enemies who hope the beſt of the Kings Majeſty, and profes that they love his honour (which is the calumnie of the Malignant, againſt the ſeekers of Refor<g ref="char:EOLhyphen"/>mation) nor ſuch as in the begining through want of perſwaſion were not ſo forward for Reformation, nor ſuch as in debate
+<pb n="2" facs="tcp:158375:3"/> of matters do poſſibly differ in their judgements from others, about ſome Circumſtances, and <hi>midſes</hi> which may leade to the deſired end of unity in Religion, provided their converſa<g ref="char:EOLhyphen"/>tion be ſuch as beſeemeth the Goſpell of Chriſt; and for the ſubſtance and reallity of their Speeches and actions in private and publique, they be known to contribute their beſt endea<g ref="char:EOLhyphen"/>vours for Reformation.</p>
+            <p>Upon the other part, ſuch as be enemies indeed may be known, firſt, by their malicious Cenſuring and calumniating of the civill and eccleſiaſticall meetings of this Kirke and Kingdom which are held for conſerving of peace betwixt the Kingdomes, and for endeavouring by all good meanes the unity of Religion, as if they tended to the diminition of the King his greatneſſe and Authority in <hi>England.</hi> 2. By their diſpiſing or miſregard<g ref="char:EOLhyphen"/>ing of the publique reſolutions agreed upon for ſo good ends. 3. By their notable injuring the Kings Majeſty in his honour, in attributeing to his Majeſty whatſoever is plotted by bad Counſellors, or acted by the Popiſh and Praelaticall party, as if there were not a difference betwixt the King and them, or be<g ref="char:EOLhyphen"/>twixt the King and his Authority, and the pretence and abuſe thereof. 4. By ſlandering and traducing all ſuch as labours to promote the reformation, in <hi>England,</hi> not ſpareing them who are in places of Government, and whom God hath honoured to be worthy inſtruments in our own reformation, as if they were enemies to the Kings honor, and were ſerving their own privat ends, without reſpect to the publique. 5. By their going about &amp; endeavoring to make the hearts &amp; hands of others to faint in the worke of reformation, and if it were poſſible to make them as Malignant &amp; diſaffected as themſelves. 6. By laboring to bring the Parliament of <hi>England</hi> in ſuſpition, as if they intended to <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſt the yoke of royall Authority, or intended not the refor<g ref="char:EOLhyphen"/>mation of religion, and unitie with this Kirke. 7. By their in<g ref="char:EOLhyphen"/>ſol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncy an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> boaſting when they heare of the ſucceſſe of the Popiſh and Pra<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aticall party, and their readineſſe to aſſiſt them according to their power, whereby they bewray their feare of reformation of religion, and their hope to ſee the day when they ſhall be avenged upon ſuch as they maligne at home.</p>
+            <p>When they are knowne by theſe and the like practiſes, we ſought to warne the people to beware of their Company, Coun<g ref="char:EOLhyphen"/>ſells
+<pb n="3" facs="tcp:158375:3"/> and ſeducements; and becauſe ſuch Malignants ſhrow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under the falſe pretence of Loyalty to the Kings Majeſty, with<g ref="char:EOLhyphen"/>out reſpect to religion or the good of religion, we ought in all our Speeches and Praiers to teſtifie our faithfullneſſe and high reſpects to the Kings Majeſty, and alſo to preſſe and pray for the unity of religion, and for the proſpering all the good waies that may conduce for ſo bleſſed a worke, as ſerving for the honour of God, and for the King his greatneſſe, and the true peace of his Kingdoms, declaring all ſuch as oppoſe the unity of Religion to be enemies to God, to the King, and to the peace and proſperity of the Kingdoms.</p>
+            <p>Now ſince it is incumbent to us by our calling, and commit<g ref="char:EOLhyphen"/>ted to us by the generall Aſſembly according to our calling, to uſe all lawfull and Eccleſiaſtick waies for furtherance of refor<g ref="char:EOLhyphen"/>mation and unity of Religion, for continuance of our own peace at home, and of the common peace betwixt the King<g ref="char:EOLhyphen"/>doms, a neceſſity is laid upon us.</p>
+            <p>Firſt, to give warning to the people of the danger of the Proteſtant religion, through the Popiſh Armies in <hi>England</hi> and <hi>Jreland,</hi> pretending that they are better and more dutifull Sub<g ref="char:EOLhyphen"/>jects then the Proteſtants, but intending no leſſe then the ruine of the reformed Religion, and the planting of their Heriſie, Idolatry, and Tyrannie in a more compendious way then could have bin, don by the late Service-booke, and Booke of Cannons in which courſe if they ſhall by their power prevaile, it ſhall be impoſſible for the Kings Majeſty to ſuppreſſe Popery, and main<g ref="char:EOLhyphen"/>taine the true religion, conforme to the many promiſes con<g ref="char:EOLhyphen"/>teined in his Majeſties Declarations; They will ſoone caſt off their profeſſed Allegiance and ſubjection, and it will be no eaſie matter for this Church and Kingdome, whence they con<g ref="char:EOLhyphen"/>ceive all their troubles and diſappointments to have iſſued to reſiſt that violence, eſpecially conſidering what a diſaffected and diſcontented party we have at home in our own boſom.</p>
+            <p>Secondly, ſince unity in the truth hath bin our ſtrength ſince the begining, we ought by all good meanes in publick and pri<g ref="char:EOLhyphen"/>vate, to prevent and remove all diviſive motions which by ma<g ref="char:EOLhyphen"/>licious and crafty ſichophants are endeavoured by ſpreading of Calumnies and Iſlanders againſt the preſent Government, and putting aſperſions on ſuch, whether of the Nobillity &amp; Gentry,
+<pb n="4" facs="tcp:158375:4"/> Burroughs and Miniſtry; as the Lord hath honoured to be faith<g ref="char:EOLhyphen"/>full and happy Inſtruments in his worke, from the begining having endured the heat of the day, and reſolved to be conſtant unto the end.</p>
+            <p>Thirdly, that ſince by the providence of God the two King<g ref="char:EOLhyphen"/>domes are ſo ſtrongly united, and there be hopes of a more ſtrong union by unity of religion. It is our duty to labour to remove and prevent all occaſions of jealouſies and ſuſpitions betwixt the two Kingdomes, and to do or ſay nothing that may breed miſunderſtandings, breake off correſpondence, weaken the confidence or infringe the Union and Peace betwixt the two Kingdomes, ſo happily eſtabliſhed in his Majeſties preſence and with his royall conſent in both Parliaments.</p>
+            <p>Fourthly, becauſe when we ſpeake for the Kings honour and for obedience to civill Authority in all things lawfull, our ſpeeches are wreſted by perverſe men to their corrupt ends, as if we loved not the reformation of religion in <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> and when we ſpeake of reformation, we are traduced as enemies to the King and to royall Authority, which may make a great miſtaking and worke dangerous effects amongſt the peo<g ref="char:EOLhyphen"/>ple, who love both reformation of religion and the Kings ho<g ref="char:EOLhyphen"/>nour: Therefore in this difficulty we ought to ſhew in our Do<g ref="char:EOLhyphen"/>ctrine, that there is no repugnancy, betwixt the Kings Autho<g ref="char:EOLhyphen"/>rity, and the reformation of religion, that nothing can ſerve ſo much for his Majeſties glory and the greatneſſe of his King<g ref="char:EOLhyphen"/>domes, as doth the reformation of religion in all his dominions, and that ſuch as are oppoſite to the reformation, are greateſt enemies to the Kings honour, whatſoever they profeſſe or ſweare to the contrary, and alſo to explaine the difference be<g ref="char:EOLhyphen"/>twixt the Kings power and juſt authority, and the pretending and abuſing thereof by ſuch men for their own private ends; and to ſhew that oppoiſiition to ſuch men and their waies, is a true teſtimony of faithfullneſſe and loyalty to the King.</p>
+            <p>
+               <hi>That the Preſbiteries be carefull to diſcern and try theſe Malignants and to reclaime or cenſure them according to the Acts of the Aſſem<g ref="char:EOLhyphen"/>bly, and to make report of their dilligence to the next Aſſembly.</hi>
+            </p>
+            <p>In end, becauſe much every way doth depend upon us of the Miniſtry, we have need to ſtir up our ſelves and the people in truth and unity, which by the bleſſing of God will be a powre<g ref="char:EOLhyphen"/>full
+<pb n="5" facs="tcp:158375:4"/> meane to preſerve our Religion, and to propagate the fame to other Churches groaning under thier ſeverall burdens and panting for ſuch a reformation as the Lord in mercy hath gran<g ref="char:EOLhyphen"/>ted unto us.</p>
+         </div>
+         <div type="indiction_for_a_public_fast">
+            <head>Indiction of a Publike FAST, by the <hi>Commiſsioners</hi> of the Generall Aſſembly of the <hi>Kirke</hi> of SCOTLAND.</head>
+            <p>WHereas by the late generall aſſembly, power is committed unto us, to conſider and performe what we find neceſſary by all lawfull and Eccleſiaſtique wayes, for furtherance of the union in Religion and unity in Kirke government, for continu<g ref="char:EOLhyphen"/>ance of our owne peace at home, and of the common peace in, and betwixt the two Kingdomes. We find it neceſſary that there ſhall be a ſolemn faſt and humiliation kept in all the Kirkes of this Kingdom upon the third Sunday of <hi>February</hi> next, and the <hi>Thurſday</hi> following, for the cauſes add motives following.</p>
+            <p n="1">1. Although within theſe few Yeares wee renewed the Covenant and Vowed ſolemnely to ſtand to the former reformation of Religi<g ref="char:EOLhyphen"/>on, and to reforme our ſelves and our Families We have notwitſtan<g ref="char:EOLhyphen"/>ding fallen from the zeale and fervency of our affection at that time, many perſons of all ranks and callings are growne luke-warm and are content with a meer formality and ſhew of godlines, without inward power yea ſins and vices abound as in the time of corruption, Family <hi>worſhip,</hi> mutual edification &amp; ſtirring up on of another by information admonition, conſolation rebuke much neglected &amp; <hi>Miniſters</hi> negligent in urging the ſame all which are ſo much the more heynous becauſe of our unthankefullnes after ſo great mercies &amp; breach of Covenant.</p>
+            <p n="2">2. The danger of this Church and Kingdome ariſing partly from within; by the inſolency of Papiſts in theſe troubleſome times, and diviſive motions of the Malignant Party, and creeping in if errors; and partly without, from the Popiſh Armies and Praelaticall party in <hi>England</hi> and <hi>Ireland,</hi> which aim undoubtedly at the diſturbance of our peace, and overthrow of the wiſh of Reformation: The conſide<g ref="char:EOLhyphen"/>ration whereof ſhould move us to pray to God to dir ct us in all law<g ref="char:EOLhyphen"/>full meanes which may ſerve for unity amongſt our ſelves, that wee may be the more ſtrengthened againſt the common enemy.</p>
+            <p n="3">3. In reſpect of the fellow feeling which we ought to have with the
+<pb n="6" facs="tcp:158375:5"/> Members of Chriſts body farre and neere, wee have cauſe to lament the long caſting troubles of the Churches abroad in <hi>Germany,</hi> and elſe where, and eſpecially the combuſtions in <hi>England,</hi> and almoſt utter deſolation in <hi>Irela<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi>
+            </p>
+            <p n="4">4. That the Lord may bleſſe all lawfull meanes to be uſed for pre<g ref="char:EOLhyphen"/>ſerving the union and peace betwixt the two Kingdomes, and procu<g ref="char:EOLhyphen"/>ring the unity of Religion, and uniformitie of worſhip and Church Government within his Majeſties Dominions eſpecially that God would grant a good ſucceſſe to the Treaty and travells of the Com<g ref="char:EOLhyphen"/>miſsioners both of the Parliament and generall aſſembly.</p>
+            <p n="5">5. Becauſe the unhappy diviſion; betwixt the King and Parliament of <hi>England</hi> is a great impediment to the wiſh of Reformation, and the ſetling of a firm peace in his Majeſties Dominions: It is our duty to recommend earneſtly to the <hi>Lord,</hi> that the differences may be com<g ref="char:EOLhyphen"/>poſed in ſuch a way as may moſt conduce to the glory of God, and advance the ſo much wiſhed for unity of Religion and uniformity of Church Government.</p>
+            <p n="6">6. Finally, that the Lord would diſcover and diſappoint all the conſpiracies plots and machinations, which tend to the execution of the bloody decrees of the councel of <hi>Trent;</hi> the fountain from whence hath iſſued all the troubles and perſecutions to the reformed Churches; and quickly deſtroy that Man of ſin. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
